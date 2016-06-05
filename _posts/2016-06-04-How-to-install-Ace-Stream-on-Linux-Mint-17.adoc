@@ -1,0 +1,12 @@
+= How to install AceStream on Linux Mint 17
+
+The official AceStream linux install guide wasn't working for me. Luckily a user named scorpion posted the correct set of commands here on the offical linuxmint forums.
+
+https://forums.linuxmint.com/viewtopic.php?f=47&t=174903?f=47&t=174903[View the post on the official forums]
+
+----
+sudo sh -c 'echo "deb http://repo.acestream.org/ubuntu/ trusty main" > /etc/apt/sources.list.d/acestream.list'
+sudo wget -O - http://repo.acestream.org/keys/acestream.public.key | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install acestream-full
+----
