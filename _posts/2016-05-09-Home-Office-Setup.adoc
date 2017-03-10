@@ -15,10 +15,11 @@ NMB PC-122 Mechanical Keyboard
 Serta 44187 Back in Motion Health and Wellness Mid-Back Office Chair, Frye Chocolate
 
 Asus ROG GL752VW
-- Intel® Core™ i7 6700HQ Processor 2.6GHZ
-- Intel® HM170 Chipset
-- 32 GB DR4 2133 MHz SDRAM, 2 x SO-DIMM socket for expansion up to 32 GB SDRAM 
-- 17.3" 16:9 HD+ (1600x900)/Full HD (1920x1080)
-- Integrated Intel® HD Graphics 530 
-- NVIDIA® GeForce® GTX 960M with 2G/4G GDDR5 VRAM
-- 1TB 5400 SSD
+
+* Intel® Core™ i7 6700HQ Processor 2.6GHZ
+* Intel® HM170 Chipset
+* 32 GB DR4 2133 MHz SDRAM, 2 x SO-DIMM socket for expansion up to 32 GB SDRAM 
+* 17.3" 16:9 HD+ (1600x900)/Full HD (1920x1080)
+* Integrated Intel® HD Graphics 530 
+* NVIDIA® GeForce® GTX 960M with 2G/4G GDDR5 VRAM
+* 1TB 5400 SSD
