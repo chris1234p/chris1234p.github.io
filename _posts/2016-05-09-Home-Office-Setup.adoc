@@ -8,20 +8,17 @@ Targus - Chill Mat+ Laptop Cooling System with 4-Port USB Hub
 
 Logitech Wireless Gaming Headset G930 with 7.1 Surround Sound
 
+JLab Audio J5 Metal Earbuds
+
+NMB PC-122 Mechanical Keyboard
+
 Serta 44187 Back in Motion Health and Wellness Mid-Back Office Chair, Frye Chocolate
 
-iBuyPower Battalion 101 W650SJ Gaming Laptop
-
-- Battalion 101 W650SJ 15.6" Full HD 1920x1080 LED-Backlit Display Laptop
-- Intel® Core™ i7-4700MQ Mobile Processor (4x 2.4GHz/6MB L3 Cache)
-- 16GB [8GB x 2] 1600MHz DDR3 SO-DIMM Laptop Memory
-- NVIDIA GeForce GT 850M 2GB GDDR3 Video w/ NVIDIA Optimus [W650SJ]
-- 512 GB ADATA SX900 SSD -- Read: 540MB/s, Write: 465MB/s - Single Drive
-- 8x Dual Format DVD±R/±RW + 16x CD-R/RW Combo Drive [W650SJ]
-- Built-in 9-in-1 Media Card Reader/Writer [Laptop]
-- 3D Premium Surround Sound Onboard
-- Built-in 10/100/1000 Mbps LAN [Laptop]
-- 802.11 b/g/n Wi-Fi + Bluetooth Combo [W650SJ]
-- Windows 10
-- Built-in 2x USB 2.0 + 2x USB 3.0 + 1x USB 3.0 / eSATA Combo Ports [Laptop]
-- GWC Tech USB 3.0 Docking Station w/ USB 3.0, Audio, HDMI, DVI, RJ45 Connectors
+Asus ROG GL752VW
+- Intel® Core™ i7 6700HQ Processor 2.6GHZ
+- Intel® HM170 Chipset
+- 32 GB DR4 2133 MHz SDRAM, 2 x SO-DIMM socket for expansion up to 32 GB SDRAM 
+- 17.3" 16:9 HD+ (1600x900)/Full HD (1920x1080)
+- Integrated Intel® HD Graphics 530 
+- NVIDIA® GeForce® GTX 960M with 2G/4G GDDR5 VRAM
+- 1TB 5400 SSD
